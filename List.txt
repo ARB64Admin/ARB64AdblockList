@@ -31,4 +31,7 @@
 ||ads.sber.ru^
 ||ads.vk.com^
 ||yandex.ru^
+||ya.ru^
 ||tns-counter.ru^
+||ads.avito.com^
+||target.vk.ru^
