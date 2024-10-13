@@ -1,0 +1,33 @@
+[Adblock Plus]
+! Title: arb64
+! Description: Block
+! Maintainer: Andrew ReBullet
+! Homepage: https://arb64.eu
+! Contact: andrew@arb64.eu
+
+adservice.google.com
+analytics.google.com
+google-analytics.com
+ssl.google-analytics.com
+browser.sentry-cdn.com
+affiliationjs.s3.amazonaws.com
+amazonaax.com
+hotjar.com
+static.hotjar.com
+browser.sentry-cdn.com
+ads.facebook.com
+advertising.twitter.com
+advertising.x.com
+ads-dev.pinterest.com
+widgets.pinterest.com
+ads.reddit.com
+ads.yap.yahoo.com
+data.mistat.intl.xiaomi.com
+tracking.intl.miui.com
+tracking.india.miui.com
+metrics5.data.hicloud.com
+samsungadhub.com
+securemetrics.apple.com
+ads.sber.ru
+ads.vk.com
+yandex.ru
