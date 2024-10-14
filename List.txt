@@ -35,3 +35,4 @@
 ||tns-counter.ru^
 ||ads.avito.com^
 ||target.vk.ru^
+||ads.vk.ru^
