@@ -3,7 +3,7 @@
 ! Description: Block
 ! Maintainer: Andrew ReBullet
 ! Homepage: https://arb64.eu
-! Contact: andrew@arb64.eu
+! Contact: contact@arb64.eu
 
 ||adservice.google.com^
 ||analytics.google.com^
