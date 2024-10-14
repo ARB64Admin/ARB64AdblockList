@@ -76,3 +76,5 @@
 ||metrics-dra.dt.hicloud.com^
 ||business.samsungusa.com^
 ||supportmetrics.apple.com^
+||metrics3.data.hicloud.com^
+||metrics1.data.hicloud.com^
