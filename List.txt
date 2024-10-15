@@ -78,3 +78,5 @@
 ||supportmetrics.apple.com^
 ||metrics3.data.hicloud.com^
 ||metrics1.data.hicloud.com^
+||trk.mail.ru^
+
