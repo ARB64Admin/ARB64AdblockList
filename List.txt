@@ -262,18 +262,6 @@ v20.events.data.microsoft.com
 v20.vortex-win.data.microsoft.com
 vortex-win-sandbox.data.microsoft.com
 vortex-win.data.microsoft.com
-#######################################################################################
-##### Spotify Ads Blacklist                                                        ####
-##### Created by: Isaaker                                                          ####
-##### Updated: 2024-08-31 (GMT)                                                    ####
-#######################################################################################
-##### Version: pi-hole                                                             ####
-##### Number of domains: 1559                                                      ####
-#######################################################################################
-##### Read more: https://github.com/Isaaker/Spotify-AdsList                        ####
-##### License: https://github.com/Isaaker/Spotify-AdsList/blob/main/LICENSE.txt    ####
-#######################################################################################
-
 audio-fa.scdn.co
 adeventtracker.spotify.com
 sentry.io
