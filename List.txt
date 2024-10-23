@@ -266,4 +266,8 @@ kinoplan.io
 o.dns-shop.ru
 robinbob.in
 betsonsport.ru
-
+ecsv2.roblox.com
+client-telemetry.roblox.com
+gold.roblox.com
+metrics.roblox.com
+tracing.roblox.com
