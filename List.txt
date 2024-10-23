@@ -271,3 +271,4 @@ gold.roblox.com
 metrics.roblox.com
 tracing.roblox.com
 vk-analytics.ru
+okcdn.ru
