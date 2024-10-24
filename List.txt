@@ -271,4 +271,5 @@ gold.roblox.com
 metrics.roblox.com
 tracing.roblox.com
 vk-analytics.ru
-okcdn.ru
+errortracking.deepl.com
+r0.mail.ru
