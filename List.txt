@@ -30,7 +30,6 @@
 ||securemetrics.apple.com^
 ||ads.sber.ru^
 ||ads.vk.com^
-||yandex.ru^
 ||tns-counter.ru^
 ||ads.avito.com^
 ||target.vk.ru^
@@ -273,3 +272,14 @@ tracing.roblox.com
 vk-analytics.ru
 errortracking.deepl.com
 r0.mail.ru
+mdp-appconf-ru.heytapdl.com
+kaspersky-labs.com
+kaspersky.com
+appmetrica.yandex.net
+avast.com
+errortracking.deepl.com
+ozonusercontent.com
+ms.vk.com
+kaspersky.ru
+kaspersky.de
+avg.com
