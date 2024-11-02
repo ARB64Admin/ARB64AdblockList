@@ -283,3 +283,6 @@ ms.vk.com
 kaspersky.ru
 kaspersky.de
 avg.com
+appmetrica.yandex.ru
+metrika.yandex.ru
+adfox.yandex.ru
