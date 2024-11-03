@@ -284,3 +284,4 @@ kaspersky.ru
 kaspersky.de
 avg.com
 yandex.ru
+analytics.dns-shop.ru
